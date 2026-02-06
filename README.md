@@ -1,20 +1,20 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [pi](https://github.com/badlogic/pi-mono)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [pi](https://github.com/badlogic/pi-mono), a coding agent CLI.
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/pi](https://draculatheme.com/pi).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/pi/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+| [![Tyler Schleg](https://github.com/schleg.png?size=100)](https://github.com/schleg) |
+| ------------------------------------------------------------------------------------ |
+| [Tyler Schleg](https://github.com/schleg)                                            |
 
 ## Community
 
