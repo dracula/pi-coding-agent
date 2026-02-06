@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/pi](https://draculatheme.com/
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/pi/graphs/contributors).
 
-| [![Tyler Schleg](https://github.com/schleg.png?size=100)](https://github.com/schleg) |
+| [![Tyler Schlegel](https://github.com/schleg.png?size=100)](https://github.com/schleg) |
 | ------------------------------------------------------------------------------------ |
-| [Tyler Schleg](https://github.com/schleg)                                            |
+| [Tyler Schlegel](https://github.com/schleg)                                            |
 
 ## Community
 
