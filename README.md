@@ -1,19 +1,19 @@
-# Dracula for [pi](https://github.com/badlogic/pi-mono)
+# Dracula for [pi](https://pi.dev)
 
-> A dark theme for [pi](https://github.com/badlogic/pi-mono), a coding agent CLI.
+> A dark theme for [pi](https://pi.dev), a coding agent CLI.
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/pi](https://draculatheme.com/pi).
+All instructions can be found at [draculatheme.com/pi-coding-agent](https://draculatheme.com/pi-coding-agent).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/pi/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/pi-coding-agent/graphs/contributors).
 
 | [![Tyler Schlegel](https://github.com/schleg.png?size=100)](https://github.com/schleg) |
-| ------------------------------------------------------------------------------------ |
+| -------------------------------------------------------------------------------------- |
 | [Tyler Schlegel](https://github.com/schleg)                                            |
 
 ## Community
